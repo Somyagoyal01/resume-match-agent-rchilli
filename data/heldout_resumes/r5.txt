@@ -1,0 +1,6 @@
+Rahul Mehta | rahulmehta@example.com | +91 99001 22334 | Hyderabad (open to relocate)
+
+Summary: DevOps engineer, ~2 years. Kubernetes, Terraform, Jenkins, AWS, Python scripting, Grafana/Prometheus.
+
+Experience: Cloud Engineer @ Nimbus Systems, Aug 2024 - present (2 yrs)
+Education: B.Tech ECE, JNTU Hyderabad, 2024

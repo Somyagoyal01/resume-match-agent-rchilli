@@ -1,0 +1,11 @@
+Name: Mohammed Irfan
+Email - irfan.m@example.org    Phone - 7012345678
+Location - Kochi, Kerala
+
+SKILLS: Java, Spring Boot, Microservices, Kafka, React.js, MySQL
+
+EXPERIENCE (5 years)
+* Senior Developer, Brightline Infotech (2021-2026)
+* Developer, Codecraft Solutions (2020-2021)
+
+EDUCATION: MCA, Cochin University (2020)

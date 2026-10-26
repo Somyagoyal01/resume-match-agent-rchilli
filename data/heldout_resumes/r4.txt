@@ -1,0 +1,12 @@
+KARTHIK VENKATESAN — NLP Engineer
+Chennai · karthik.v@example.net · 9840012345
+
+EXPERIENCE
+NLP Engineer | Lexora AI | Mar 2024 – Present
+  Fine-tuned BERT for named entity recognition on legal contracts (spaCy + Hugging Face transformers).
+  RAG chatbot with LangChain and FAISS.
+Data Scientist | Insightwave | Jun 2022 – Feb 2024
+  Text classification, NLTK, scikit-learn.
+
+EDUCATION
+M.Tech, Computer Science — IIT Madras (2022)

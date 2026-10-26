@@ -1,0 +1,14 @@
+ANANYA RAO
+Bengaluru | ananya.rao.dev@example.com | +91-98450-11223
+
+Profile
+Backend developer who moved into ML. 3 yrs 6 months total.
+
+Work
+Swiggy-like startup (Fooddash Pvt Ltd) — Software Engineer — Jul 2022 to Jan 2026
+- Built recommendation APIs in Python/FastAPI; PostgreSQL; Docker on AWS
+Freelance — ML consultant — Feb 2026 to present
+- churn models with xgboost and scikit learn
+
+Education
+B.E. Computer Science, RV College of Engineering, 2022
