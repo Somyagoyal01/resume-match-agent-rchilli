@@ -1,0 +1,8 @@
+DEEPAK N | Data Engineer | deepak.n@example.com | Ph: 9123456780 | Chennai
+
+Experience
+- Data Engineer, Arcwave Retail, Jan 2023 – Present: Kafka streams, Snowflake, dbt, Airflow, Python
+- Associate, TCS, Jul 2021 – Dec 2022: SQL reporting, Tableau
+
+Education
+BE (Mechanical), Anna University, 2021

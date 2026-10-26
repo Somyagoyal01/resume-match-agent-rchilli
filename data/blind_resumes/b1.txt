@@ -1,0 +1,13 @@
+Curriculum Vitae
+
+Sanya Kapoor
+Contact: sanya.kapoor@example.in / 91-8800112233
+Current city: Gurgaon
+
+Career snapshot: Machine learning engineer with four years in fintech (credit risk models, fraud detection).
+Employment
+2022 – 2026  Risk Data Scientist, LoanLeaf
+2026 – now   ML Engineer, PayRail
+Tech: Python, PySpark, scikit-learn, LightGBM, Airflow, AWS SageMaker, SQL
+
+Qualifications: Bachelor of Technology (Information Technology), NIT Kurukshetra, 2022

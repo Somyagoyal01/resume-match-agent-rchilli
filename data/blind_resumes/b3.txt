@@ -1,0 +1,7 @@
+Fatima Sheikh
+fatima.sheikh@example.com
+Hyderabad, Telangana
+
+Recent graduate (2026). Final-year project: hate-speech detection in Hinglish tweets using BERT and Hugging Face; built a Streamlit demo.
+Internship: NLP intern at Vaani Labs, May 2025 – Jul 2025.
+B.Tech CSE, Osmania University, CGPA 8.9
