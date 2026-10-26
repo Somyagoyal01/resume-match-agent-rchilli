@@ -1,0 +1,5 @@
+{
+ "b1.txt": {"email": "sanya.kapoor@example.in", "phone": "8800112233", "years": 4.0, "degree": "B.Tech", "skills": ["python", "scikit-learn", "aws", "sql", "machine learning"]},
+ "b2.txt": {"email": "deepak.n@example.com", "phone": "9123456780", "years": 5.2, "degree": "B.E.", "skills": ["kafka", "python", "sql", "tableau"]},
+ "b3.txt": {"email": "fatima.sheikh@example.com", "phone": null, "years": 0.2, "degree": "B.Tech", "skills": ["bert", "hugging face transformers", "nlp"]}
+}

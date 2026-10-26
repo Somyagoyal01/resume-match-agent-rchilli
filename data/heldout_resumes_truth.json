@@ -1,0 +1,7 @@
+{
+ "r1.txt": {"email": "ananya.rao.dev@example.com", "phone": "9845011223", "years": 3.5, "degree": "B.E.", "skills": ["python", "fastapi", "postgresql", "docker", "aws", "xgboost", "scikit-learn"]},
+ "r2.txt": {"email": "irfan.m@example.org", "phone": "7012345678", "years": 5.0, "degree": "MCA", "skills": ["java", "spring boot", "microservices", "kafka", "react", "mysql"]},
+ "r3.txt": {"email": "priya.s@example.com", "phone": null, "years": 0.5, "degree": "B.Sc", "skills": ["power bi", "sql", "python", "pandas"]},
+ "r4.txt": {"email": "karthik.v@example.net", "phone": "9840012345", "years": 4.0, "degree": "M.Tech", "skills": ["bert", "ner", "spacy", "hugging face transformers", "rag", "langchain", "faiss", "nlp", "nltk", "scikit-learn", "text classification"]},
+ "r5.txt": {"email": "rahulmehta@example.com", "phone": "9900122334", "years": 2.0, "degree": "B.Tech", "skills": ["kubernetes", "terraform", "jenkins", "aws", "python", "grafana", "prometheus", "devops"]}
+}
